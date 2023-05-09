@@ -1,6 +1,7 @@
 ### Hi, there ⚡
 
-My name is Thales Macêdo from Brazil (🇧🇷). I've been studying React Ecosystem and currently I'm focused on React Native.
+I'm from Brazil (🇧🇷). I've been working using Golang, Angular and Nodejs. I already worked using Cobol and Java too.
+
 In my free time I use to ride bike (🚴),to dive (🤿), to read books (📚), to listen to music (🎵) and enjoy parties (🍺).
 I encourage you to contribute to my github projects!🌱
 
